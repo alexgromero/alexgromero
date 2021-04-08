@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alessandra
-- 🎓 I’m a recent CS graduate looking for Software Engineer roles
-- 🌱 I’m currently learning Ruby
+- 🎓 I’m a recent CS grad looking for a Software Engineer role
 - 📫 You can reach me via romero.alessandra1 [at] gmail [dot] com
 
 <!---
