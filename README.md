@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alessandra
-- 🎓 I’m a recent CS grad looking for a Software Engineer role
-- 🧠 I'm currently learning Kotlin as well as learning how to contribute to FOSS
+- 🎓 I’m a graduate student at NYU looking for a Software Engineer Internship role
+- 🧠 I'm currently learning Kotlin
 - 📫 You can reach me via romero.alessandra1 [at] gmail [dot] com
 
 <!---
