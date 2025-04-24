@@ -13,10 +13,6 @@
 
 <h3 align="center">💌 you can reach me via</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexgromero/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-bbdfff?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=bbdfff" />
-  </a>&nbsp;
-  <a href="mailto:romero.alessandra1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-fff5f7.svg?&style=for-the-badge&logo=gmail&logoColor=cb4a59&labelColor=fff5f7" />
-  </a>
+  <a href="https://www.linkedin.com/in/alexgromero/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-bbdfff?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=bbdfff" /></a>&nbsp;
+  <a href="mailto:romero.alessandra1@gmail.com"><img src="https://img.shields.io/badge/Gmail-fff5f7.svg?&style=for-the-badge&logo=gmail&logoColor=cb4a59&labelColor=fff5f7" /></a>
 </p>
