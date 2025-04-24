@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-ffeef2?style=flat&logo=python&logoColor=ff82a9&labelColor=fbd6e3" />
-  <img src="https://img.shields.io/badge/AWS-dfffe0?style=flat&logo=amazon-aws&logoColor=232F3E&labelColor=b8efbb" />
-  <img src="https://img.shields.io/badge/GitHub-f5e6ff?style=flat&logo=github&logoColor=181717&labelColor=e3cfff" />
+  <img src="https://raw.githubusercontent.com/alexgromero/alexgromero/main/calico-critter.png" width="200" alt="calico critter" />
 </p>
 
 <h3 align="center">💌 you can reach me via</h3>
